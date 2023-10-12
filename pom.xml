@@ -41,7 +41,7 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</developerConnection>
-        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-extensions-webconsolebranding.git</url>
+        <url>https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding.git</url>
         <tag>HEAD</tag>
     </scm>
 
