@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one
   or more contributor license agreements.  See the NOTICE file
@@ -32,17 +32,15 @@
     <version>1.0.3-SNAPSHOT</version>
 
     <name>Apache Sling Web Console Branding</name>
-    <description>
-        Apache Sling branding for the Apache Felix Web Console. This fragment
+    <description>Apache Sling branding for the Apache Felix Web Console. This fragment
         attaches to the org.apache.felix.webconsole bundle to provide branding
-        through the /META-INF/webconsole.properties.
-    </description>
-        
+        through the /META-INF/webconsole.properties.</description>
+
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</developerConnection>
-        <url>https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding.git</url>
         <tag>HEAD</tag>
+        <url>https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding.git</url>
     </scm>
 
     <properties>
