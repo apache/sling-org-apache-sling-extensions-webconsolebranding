@@ -29,7 +29,7 @@
 
     <groupId>org.apache.sling</groupId>
     <artifactId>org.apache.sling.extensions.webconsolebranding</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4</version>
 
     <name>Apache Sling Web Console Branding</name>
     <description>Apache Sling branding for the Apache Felix Web Console. This fragment
@@ -39,13 +39,13 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolebranding.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>org.apache.sling.extensions.webconsolebranding-1.0.4</tag>
         <url>https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding.git</url>
     </scm>
 
     <properties>
         <sling.java.version>8</sling.java.version>
-        <project.build.outputTimestamp>1</project.build.outputTimestamp>
+        <project.build.outputTimestamp>1734086656</project.build.outputTimestamp>
         <site.jira.version.id>12314456</site.jira.version.id>
     </properties>
 
